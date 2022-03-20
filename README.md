@@ -25,21 +25,21 @@ You can also take the glimpse of our Project, just follow the below steps:
 
 ## Snapshots 📷
 
-1. Sign-up Page
-
-  ![image](https://user-images.githubusercontent.com/74674737/146934950-e538ccc2-d36b-4900-bd8d-078010366cf3.png)
-  
-2. Home Page
+1. Home Page
 
   ![image](https://user-images.githubusercontent.com/96833994/159173440-3518a920-7548-4260-8bba-5ac7234a3060.png)
   
-3. Sports Page
+2. Product Page
 
-  ![image](https://user-images.githubusercontent.com/74674737/146934878-aaec90c4-ca4b-4c1d-be9a-5baac0dcf129.png)
+  ![image](https://user-images.githubusercontent.com/96833994/159173558-63290ff0-f097-4671-badb-01a0b182b50e.png)
   
-4. Search Page
+3. Product Details Page
+
+  ![image](https://user-images.githubusercontent.com/96833994/159173592-7c776106-f3f8-4c9c-a44a-af0e42255a5c.png)
   
-  ![image](https://github.com/shreevalikushe/BBC_Clone/blob/main/images/Search%20Page.png)
+4. Cart Page
+  
+  ![image](https://user-images.githubusercontent.com/96833994/159173628-baf6cd8e-5632-4be7-8e09-a9e29fbc7a93.png)
   
   
   
@@ -68,8 +68,12 @@ You can also take the glimpse of our Project, just follow the below steps:
 
 - Github: [Utkarsh Kumar](https://github.com/utkrsh2505)
 
-👤 **Prasad A**
+👤 **Prasad Avaghan**
 
-- Github: [Ashish Sinha](https://github.com/a4aks)
+- Github: [Prasad Avaghan](https://github.com/prasadavaghan)
+
+👤 **Gayathri Priya**
+
+- Github: [Gayathri Priya](https://github.com/gayathripriyaG)
 
 

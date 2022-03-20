@@ -31,7 +31,7 @@ You can also take the glimpse of our Project, just follow the below steps:
   
 2. Home Page
 
-  ![image]("C:\Users\priya\Pictures\Camera Roll\Screenshot (1).png")
+  ![image]("/Screenshot%20(1).png")
   
 3. Sports Page
 

@@ -31,7 +31,7 @@ You can also take the glimpse of our Project, just follow the below steps:
   
 2. Home Page
 
-  ![image]("/Screenshot%20(1).png")
+  ![image]("https://user-images.githubusercontent.com/96833994/159173440-3518a920-7548-4260-8bba-5ac7234a3060.png")
   
 3. Sports Page
 
